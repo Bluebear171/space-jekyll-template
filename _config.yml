@@ -1,8 +1,8 @@
 # Site settings
 title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
+description: "A blog about TRPG"
 baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-template' to ''
-url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+url: "http://bluebear171.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
 username: lorem ipsum
 user_title: Lorem Ipsum - FrontEnd
@@ -30,7 +30,7 @@ compress_html:
 # Links to include in menu navigation
 links:
   - title: home
-    url: /
+    url: /http://bluebear171.github.io/space-jekyll-template/
   - title: my posts
     url: /posts
   - title: series
